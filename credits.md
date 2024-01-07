@@ -8,6 +8,8 @@ Here are all credits for everything
 
 ### Images
 
+**FreePik** - [Toolbox](https://www.freepik.com/icon/toolbox_272282)
+
 **NightCafe** - [Creator](https://creator.nightcafe.studio)
 
 **OpenAI** - Dall•E 2 (Via NightCafe Creator)
